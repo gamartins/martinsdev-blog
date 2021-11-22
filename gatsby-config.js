@@ -3,12 +3,12 @@ module.exports = {
     title: `Gabriel Martins`,
     author: {
       name: `Gabriel Martins`,
-      summary: `who lives and works in Porto building useful things.`,
+      summary: `who lives and works in Porto. Building useful things?`,
     },
     description: `Another Angular Blog.`,
     siteUrl: `https://blog.gamartins.dev/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `gamartins2910`,
     },
   },
   plugins: [
